@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AlinaShaikh
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AlinaShaikh\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=f\ l\ r\ s
+comment1.target=AlinaShaikh(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ AlinaShaikh\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=AlinaShaikh()
+comment2.text=\r\n\ Default\ constructor,\ if\ you\ don't\ pass\ in\ a\ name\ and\ seating\ location\r\n\ Pay\ attention\ to\ how\ the\ row\ and\ seat\ variables\ set\ the\ location\ of\ the\ image.\ \ 1,1\ is\ the\ first\ cell\ in\ the\ upper\ left\r\n\ of\ the\ classroom.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ getName()
+comment5.params=
+comment5.target=void\ circleClass()
+comment6.params=s
+comment6.target=void\ myHobby(java.lang.String)
+comment6.text=\r\n\ myHobby\ is\ one\ of\ the\ interfaces\ provided.\ \ \r\n\ An\ interface\ is\ just\ a\ contract\ for\ the\ methods\ that\ you\ will\ implement\ in\ your\ code.\ \ The\ College\ Board\ no\ longer\r\n\ tests\ on\ abstract\ classes\ and\ interfaces,\ but\ it\ is\ good\ to\ know\ about\ them\r\n
+numComments=7
